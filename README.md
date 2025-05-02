@@ -37,3 +37,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>Open file explorer->This Pc->Windows C Drive</p>
 <img width="1131" alt="image" src="https://github.com/user-attachments/assets/7b8d9b38-0a84-4705-a27e-634d86c523d2" />
 <p>On DC-1, on the C:\ drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”</p>
+<img width="1122" alt="Screenshot 2025-05-02 at 1 37 12 PM" src="https://github.com/user-attachments/assets/a5b3cc0b-9830-41fc-abaa-e367625b9474" />
+<p>Right click and Go to Properties</p>
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/151775b3-7030-46c0-9017-dd3af257f506" />
+<p>Go to Sharing and then click on share</p>
+
+
+
+
