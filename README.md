@@ -49,7 +49,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>Right click on wite access and then click properties. click on sharing and then share</p>
   <img width="1124" alt="Screenshot 2025-05-02 at 1 52 53 PM" src="https://github.com/user-attachments/assets/99bb9e96-3f6f-4ee3-8b06-2abd07f62c91" />
 <p>Add domainusers and make sure Permission level is on read/write</p>
-  <img width="1129" alt="Screenshot 2025-05-02 at 1 55 34 PM" src="https://github.com/user-attachments/assets/2e9cf013-961a-47ff-8b09-73879dee1be8" />
+  <img width="1127" alt="image" src="https://github.com/user-attachments/assets/0c52501f-0364-4878-bf96-969d7d7244fc" />
+
 
 <p>Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”</p>
 
