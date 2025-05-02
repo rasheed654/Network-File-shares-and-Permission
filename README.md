@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Step 1 Create some action files with various permissions
-- Step 2 
+- Step 2 Attempt to access file shares as a normal user
 - Step 3
 - Step 4
 
@@ -53,7 +53,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”</p>
 
+<h2>Attempt to access file shares as a normal user</h2>
+<img width="1125" alt="image" src="https://github.com/user-attachments/assets/774bb483-6895-481b-b80b-18a10839c3d0" />
 
+<p>Login to client-1 as a normal user, open file explorer and type in \\dc-1 to see the no-access, read access and write-access folders</p>
 
 
 
