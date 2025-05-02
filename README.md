@@ -70,7 +70,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="754" alt="image" src="https://github.com/user-attachments/assets/6a66bff2-295d-4278-bc28-d931c8591f31" />
 <P>Create a new group called Accontants in the Groups folder, in Active directory users and computers</P>
 <img width="617" alt="Screenshot 2025-05-02 at 2 28 48 PM" src="https://github.com/user-attachments/assets/c6051e6d-d7c9-489c-b4c7-1dce2b172534" />
-
 <p>On the “accounting” folder you created earlier, set the following permissions: Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write”</p>
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/d781bb41-1de5-47b3-93d7-bba1914f7477" />
 <p>On Client-1, as cim.bet user, cant access the accountants folder. it failed. </p>
