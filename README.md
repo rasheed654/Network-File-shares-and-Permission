@@ -64,6 +64,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>To create a file inside of this I need permission to do so</p>
 <img width="1129" alt="image" src="https://github.com/user-attachments/assets/e454f2ca-f1de-40f8-b488-d9a05a51115e" />
 <p>In the write-access folder I can see inside and I can attempt to create a file inside</p>
+<img width="1128" alt="Screenshot 2025-05-02 at 2 15 10 PM" src="https://github.com/user-attachments/assets/d8546474-b122-44cc-bb71-bb62c37a6660" />
+
 <p>Cant open beacause I dont have any access only domain adins have access</p>
 
 
