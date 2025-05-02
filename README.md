@@ -73,6 +73,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>On the “accounting” folder you created earlier, set the following permissions: Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write”</p>
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/d781bb41-1de5-47b3-93d7-bba1914f7477" />
 <p>On Client-1, as cim.bet user, cant access the accountants folder. it failed. </p>
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/e249b32a-786c-460b-86ab-f5cd67f752d6" />
+<p>On DC-1, im gonna make cim.bet user a member of the “ACCOUNTANTS”  Security Group</p>
 
 
 
