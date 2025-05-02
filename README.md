@@ -41,6 +41,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>Right click and Go to Properties</p>
 <img width="363" alt="image" src="https://github.com/user-attachments/assets/151775b3-7030-46c0-9017-dd3af257f506" />
 <p>Go to Sharing and then click on share</p>
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/393ee310-fd6b-4509-8187-e6a790b90fe4" />
+<p>Type in Domain Users and click Add</p>
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/681ad190-72f1-4a91-aa14-c1c399ff4730" />
+<p>Make sure Read access is selected </p>
+
+
 
 
 
