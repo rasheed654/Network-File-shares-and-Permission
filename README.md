@@ -74,7 +74,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/d781bb41-1de5-47b3-93d7-bba1914f7477" />
 <p>On Client-1, as cim.bet user, cant access the accountants folder. it failed. </p>
 <img width="838" alt="image" src="https://github.com/user-attachments/assets/e249b32a-786c-460b-86ab-f5cd67f752d6" />
-<p>On DC-1, im gonna make cim.bet user a member of the “ACCOUNTANTS”  Security Group</p>
+<p>On DC-1, im gonna make cim.bet user a member of the “ACCOUNTANTS” Security Group</p>
+<img width="1169" alt="Screenshot 2025-05-02 at 2 40 30 PM" src="https://github.com/user-attachments/assets/7abfb9a0-08fe-41d2-acb7-36816c3fed00" />
+<p>Sign back into Client-1 as cim.bet user. Tried to access the “accounting” folder and it worked
+</p>
+
 
 
 
