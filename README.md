@@ -26,7 +26,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 1 Create some action files with various permissions
 - Step 2 Attempt to access file shares as a normal user
 - Step 3 Create an “ACCOUNTANTS” Security Group, assign permissions, and test access
-- Step 4
 
 <h2>Create some action files with various permissions</h2>
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/f9a0a5ab-9334-437d-af30-e0bdfef2395a" />
@@ -68,6 +67,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>Cant open beacause I dont have any access only domain admins have access</p>
 <h2>Create an “ACCOUNTANTS” Security Group, assign permissions, and test access</h2>
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/6a66bff2-295d-4278-bc28-d931c8591f31" />
+<P>Create a new group called Accontants in the Groups folder, in Active directory users and computers</P>
+On the “accounting” folder you created earlier, set the following permissions: Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write”
+
+
+
 
 
 
