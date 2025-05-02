@@ -58,7 +58,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>Login to client-1 as a normal user, open file explorer and type in \\dc-1 to see the no-access, read access and write-access folders</p>
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/a01abf5d-f61c-4bc3-bd89-48c50ca3ed1b" />
-<p>As a normal user I tried to access the read-access folder and it worked</p>
+<p>As a normal end user I tried to access the read-access folder and it worked</p>
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/6089dee0-8074-45a3-b110-c40e63ac7b29" />
+<p>To creeate a file inside of this I need permission to do so</p>
+
 
 
 
