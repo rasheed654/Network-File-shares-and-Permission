@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
@@ -31,5 +32,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/f9a0a5ab-9334-437d-af30-e0bdfef2395a" />
 <p>Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin)</p>
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/dde6adb7-dab2-4543-b6b3-754eb93f744c" />
-Connect/log into Client-1 as a normal user (mydomain\<someuser>)
-
+<p>Connect/log into Client-1 as a normal user (mydomain\<someuser>)</p>
+<img width="1129" alt="image" src="https://github.com/user-attachments/assets/8119b8b7-19d2-4034-9703-cf40cc71859a" />
+<p>Open file explorer->This Pc->Windows C Drive</p>
+<img width="1131" alt="image" src="https://github.com/user-attachments/assets/7b8d9b38-0a84-4705-a27e-634d86c523d2" />
+<p>On DC-1, on the C:\ drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”</p>
