@@ -60,7 +60,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/a01abf5d-f61c-4bc3-bd89-48c50ca3ed1b" />
 <p>As a normal end user I tried to access the read-access folder and it worked</p>
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/6089dee0-8074-45a3-b110-c40e63ac7b29" />
-<p>To creeate a file inside of this I need permission to do so</p>
+<p>To create a file inside of this I need permission to do so</p>
+<img width="1129" alt="image" src="https://github.com/user-attachments/assets/e454f2ca-f1de-40f8-b488-d9a05a51115e" />
+<p>In the write-access file I can see inside and I can attempt to create a file inside</p>
+
 
 
 
