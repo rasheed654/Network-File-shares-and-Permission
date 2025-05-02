@@ -28,4 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4
 
 <h2>Create some action files with various permissions</h2>
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/f9a0a5ab-9334-437d-af30-e0bdfef2395a" />
+<p>Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin)</p>
+
 
